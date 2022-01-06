@@ -1,0 +1,15 @@
+table {
+  border: 5px solid blue;
+  border-radius: 20px;
+  background-color: blue;
+}
+
+td {
+  background-color: white;
+  border: 2px solid blue;
+  width: 50px;
+  height: 50px;
+  font-size: 32px;
+  text-align: center;
+  border-radius: 20px;
+}
