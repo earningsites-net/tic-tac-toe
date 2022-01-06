@@ -1,2 +1,2 @@
 # tic-tac-toe
-Created with CodeSandbox
+An alternative implementation of the tic tac toe game using usestate hooks
